@@ -9862,37 +9862,4 @@
       "State": "NULL",
       "Zip Code": "NULL",
       "Country": "USA"
-  },
-  {
-      "FirstName": "Charlotte",
-      "LastName": "Young",
-      "MiddleName": "T",
-      "DOB": "2018-08-17",
-      "Sex": "F",
-      "SSN": 3146621357,
-      "MRN": 2597517,
-      "Address Line 1": "1110 Hawks Nest Lane",
-      "Address Line 2": "Bld 24",
-      "City": "Saint Louis",
-      "State": "MO",
-      "Zip Code": 63146,
-      "Country": "USA"
-  },
-  {
-      "FirstName": "Paula",
-      "LastName": "Huddleston",
-      "MiddleName": "P",
-      "DOB": "2018-08-17",
-      "Sex": "F",
-      "SSN": 8314662078,
-      "MRN": 2597518,
-      "Address Line 1": "4764 Ventura Drive",
-      "Address Line 2": "Etcheverry Hall",
-      "City": "Santa Cruz",
-      "State": "CA",
-      "Zip Code": 95060,
-      "Country": "USA"
-  }
- 
-  ]
-}
+  }]}
